@@ -4,6 +4,10 @@
 
 # Descripción
 Este proyecto contiene un análisis de datos realizado en Power BI sobre una empresa ficticia llamada SKU-DON. El análisis se centra en el salario, departamentos y otras métricas relevantes para medir la distribución de la población empleada. El objetivo principal es proporcionar una visualización clara y detallada de esta información, ayudando a comprender la estructura salarial y la distribución por departamentos de manera intuitiva.
+Se compone de 3 pestañas de visualización:
+- Total Colaboradores.
+- Análisis Sueldos
+- Evaluación Desempeño.
 
 # Requirimientos:
 Los archivos a utilizar son:
